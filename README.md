@@ -2,7 +2,7 @@
 
 ## EDITANDO O PERFIL
 
-###### TTESTE
+###### TESTE
 - 👋 olá,eu sou @dani5647
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
